@@ -26,6 +26,7 @@ O(2^n) -> exponential
 O(3^n)
 O(n^n)
 ```
+### Example:
 
 | logn | n | n^2 | 2^n |
 |:----:|:--:|:--:|:--:|
